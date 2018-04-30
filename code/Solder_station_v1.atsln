@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "Solder_station_v1", "Solder_station_v1.cppproj", "{F6CA7902-4B46-4E43-8A83-8EC96A86A58B}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "U8g", "..\..\U8g\U8g.cproj", "{BC6ED92A-88CE-41F6-B321-95DEFB8F66E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6CA7902-4B46-4E43-8A83-8EC96A86A58B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{F6CA7902-4B46-4E43-8A83-8EC96A86A58B}.Debug|AVR.Build.0 = Debug|AVR
+		{F6CA7902-4B46-4E43-8A83-8EC96A86A58B}.Release|AVR.ActiveCfg = Release|AVR
+		{F6CA7902-4B46-4E43-8A83-8EC96A86A58B}.Release|AVR.Build.0 = Release|AVR
+		{BC6ED92A-88CE-41F6-B321-95DEFB8F66E8}.Debug|AVR.ActiveCfg = Debug|AVR
+		{BC6ED92A-88CE-41F6-B321-95DEFB8F66E8}.Debug|AVR.Build.0 = Debug|AVR
+		{BC6ED92A-88CE-41F6-B321-95DEFB8F66E8}.Release|AVR.ActiveCfg = Release|AVR
+		{BC6ED92A-88CE-41F6-B321-95DEFB8F66E8}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
